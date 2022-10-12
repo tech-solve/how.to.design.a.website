@@ -1,6 +1,6 @@
 # How to Design a Website?
 
-[![how to design a website](redd.png)](https://github.com/tech-solve/how.to.design.a.website)
+[![how to design a website](redd.png)](https://icncomputer.com/how-to-design-a-website/)
 
 
 Website is convey the brand and product information of business, group, or organization. An impressive and excellent user experience website will increase the sales. But, design your own website is not easy right? Well, in this article, we will give you 7 simple step-by-step guides to teach you how to design a web page from scratch:
